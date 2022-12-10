@@ -52,7 +52,7 @@ Tutorial Pembayaran!
 gezet@Debian~ $ apt-get -y update
 gezet@Debian~ $ apt-get -y install git gcc python3-dev
 gezet@Debian~ $ git clone https://github.com/GezetEx/GZ-Userbot
-gezet@Debian~ $ cd ZAID-USERBOT
+gezet@Debian~ $ cd Gz-Userbot
 gezet@Debian~ $ pip3 install -U-r requirements.txt
 gezet@Debian~ $ cp sample.env .env
 ```
