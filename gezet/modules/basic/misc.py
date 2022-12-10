@@ -11,20 +11,23 @@ from gezet.helper.PyroHelpers import ReplyCheck
 from gezet.modules.help import add_command_help
 from gezet.modules.bot.inline import get_readable_time
 
-alive_logo = ALIVE_PIC or "https://telegra.ph/file/cc0890d0876bc18c19e05.jpg"
+alive_logo = ALIVE_PIC or "https://telegra.ph//file/899a7cdc1bff51e3e606f.jpg"
 
 if ALIVE_TEXT:
    txt = ALIVE_TEXT
 else:
     txt = (
-        f"** ✘ zαι∂ υѕєявσт ✘**\n\n"
-        f"❏ **νєяѕισи**: `2.1`\n"
-        f"├• **υρтιмє**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
-        f"├• **ρутнσи**: `{python_version()}`\n"
-        f"├• **ρуяσgяαм**: `{__version__}`\n"
-        f"├• **ѕυρρσят**: [Click](t.me/TheSupportChat)\n"
-        f"├• **¢нαииєℓ**: [Click](t.me/TheUpdatesChannel)\n"
-        f"└• **яєρσ**: [Click](https://GitHub.com/itz-gezet/gezet-Userbot)"        
+        f"** ◉ 𝙂𝙯 𝙐𝙨𝙚𝙧𝙗𝙤𝙩 ◉**\n\n"
+        f"** ━━━━━━━━━━━━━━━━**\n\n"
+        f"❏ **ᴠᴇʀꜱɪᴏɴ**: `2.1`\n"
+        f"** ━━━━━━━━━━━━━━━━**\n\n"
+        f"├• **ᴜᴘᴛɪᴍᴇ**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
+        f"├• **ᴘʏᴛʜᴏɴ**: `{python_version()}`\n"
+        f"├• **ᴘʏʀᴏɢʀᴀᴍ**: `{__version__}`\n"
+        f"├• **ꜱᴜᴘᴘᴏʀᴛ**: [ᴄʟɪᴄᴋ](t.me/GzSupportGroup)\n"
+        f"├• **ᴄʜᴀɴɴᴇʟ**: [ᴄʟɪᴄᴋ](t.me/eageza)\n"
+        f"└• **ʀᴇᴘᴏ**: [ᴄʟɪᴄᴋ](https://GitHub.com/GezetEx/Gz-Userbot)"      
+        f"**└━━━━━━━━━━━━━━━━
     )
 
 @Client.on_message(
@@ -55,14 +58,14 @@ async def alive(client: Client, message: Message):
 async def repo(bot: Client, message: Message):
     await message.edit("⚡")
     await asyncio.sleep(1)
-    await message.edit("Fetching Source Code.....")
+    await message.edit("Mengambil Source Code.....")
     await asyncio.sleep(1)
-    await message.edit("Here is repo: \n\n\nhttps://github.com/itz-gezet/gezet-UserBot\nFork & Give an ⭐")
+    await message.edit("Ini reponya: \n\n\nhttps://github.com/GezetEx/Gz-UserBot\nFork & Give an ⭐")
 
 
 @Client.on_message(filters.command("creator", ".") & filters.me)
 async def creator(bot: Client, message: Message):
-    await message.edit("https://gitHub.com/itz-gezet")
+    await message.edit("https://gitHub.com/GezetEx")
 
 
 @Client.on_message(filters.command(["uptime", "up"], ".") & filters.me)
