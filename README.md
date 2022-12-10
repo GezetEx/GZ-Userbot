@@ -28,10 +28,10 @@
 
 ## Features 
 
-- Spam!
-- Anda Dapat Menerapkan Hingga 10 Klien Sekaligus
--  Hampir 90+ Plugin Ada menambahkan lebih banyak Plugin Segera 
-- Pengamanan Id Khusus Untuk Akun Palsu
+- **Spam!**
+- **Anda Dapat Menerapkan Hingga 10 Klien Sekaligus**
+- ** Hampir 90+ Plugin Ada menambahkan lebih banyak Plugin Segera **
+- **Pengamanan Id Khusus Untuk Akun Palsu**
 
 ## Deploy With Scalingo 
 
@@ -48,33 +48,33 @@ Tutorial Pembayaran!
 
 
 ## VPS/Locally deploy!
-console
+```console
 gezet@Debian~ $ apt-get -y update
 gezet@Debian~ $ apt-get -y install git gcc python3-dev
 gezet@Debian~ $ git clone https://github.com/GezetEx/GZ-Userbot
 gezet@Debian~ $ cd ZAID-USERBOT
 gezet@Debian~ $ pip3 install -U-r requirements.txt
 gezet@Debian~ $ cp sample.env .env
-
+```
 
 <h3 align="center">
    Edit <b>.env</b> with your own values and Run Bot
 </h3>
 
-console
+```console
 gezet@Debian~ $ screen
 gezet@Debian~ $ python3 -m gezet
-
+```
 
 ## Disclaimer 
 
 
-console
+```console
       ⚠️ PERINGATAN UNTUK ANDA ⚠️
        Akun Telegram Anda mungkin akan diblokir.
    Saya tidak bertanggung jawab atas penyalahgunaan bot ini
 Bot ini dimaksudkan untuk bersenang-senang saja.
-
+```
 
 ## Credits 💖
 - Zect Userbot
@@ -84,8 +84,8 @@ Bot ini dimaksudkan untuk bersenang-senang saja.
 - xyz ⚡
 
 ## Support / Channel
-
+"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-ꜱᴜᴘᴘᴏʀᴛ-black?&style=for-the-badge&logo=t
 <p align="center">ꜱᴜᴘᴘᴏʀᴛ / ᴄʜᴀɴɴᴇʟ ----> </p>
 
-<p align="center"><a href="https://t.me/GzSupportGroup"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-ꜱᴜᴘᴘᴏʀᴛ-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/GzSupportGroup"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-ᴜᴘᴅᴀᴛᴇꜱ-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/GzSupportGroupelegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/GzSupportGroupelegram"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-ᴜᴘᴅᴀᴛᴇꜱ-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
