@@ -88,3 +88,4 @@ Bot ini dimaksudkan untuk bersenang-senang saja.
 <p align="center">ꜱᴜᴘᴘᴏʀᴛ / ᴄʜᴀɴɴᴇʟ ----> </p>
 
 <p align="center"><a href="https://t.me/GzSupportGroupelegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/GzSupportGroupelegram"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-ᴜᴘᴅᴀᴛᴇꜱ-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
