@@ -83,9 +83,8 @@ Bot ini dimaksudkan untuk bersenang-senang saja.
 - pyrogram
 - xyz ⚡
 
-## Support / Channel
-"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-ꜱᴜᴘᴘᴏʀᴛ-black?&style=for-the-badge&logo=t
-<p align="center">ꜱᴜᴘᴘᴏʀᴛ / ᴄʜᴀɴɴᴇʟ ----> </p>
+## Support
+"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-black?&style=for-the-badge&logo=t
+<p align="center">ꜱᴜᴘᴘᴏʀᴛ ----> </p>
 
-<p align="center"><a href="https://t.me/GzSupportGroupelegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/GzSupportGroupelegram"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-ᴜᴘᴅᴀᴛᴇꜱ-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/GzSupportGroup"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-ꜱᴜᴘᴘᴏʀᴛ-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
